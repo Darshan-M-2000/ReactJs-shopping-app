@@ -29,7 +29,7 @@ export default function MainNav() {
         <div className='logo'>
         <Image className='cartlogo' src='/cart.png' alt="" width={110} height={50}/>
         <div className='logoname'>
-        <p className='rr'>RR&nbsp;&nbsp;</p>
+        <p className='rr'>DM&nbsp;&nbsp;</p>
         <p className='shopping'>&nbsp;&nbsp;Shopping</p>
         </div>
         <div className='tires'>

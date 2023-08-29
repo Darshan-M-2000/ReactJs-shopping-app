@@ -29,7 +29,7 @@ export default function MainNavMob() {
         <div className='logomob'>
         <Image className='cartlogomob' src='/cart.png' alt="" width={75} height={35}/>
         <div className='logonamemob'>
-        <p className='rrmob'>RR&nbsp;&nbsp;</p>
+        <p className='rrmob'>DM&nbsp;&nbsp;</p>
         <p className='shoppingmob'>&nbsp;&nbsp;Shopping</p>
         </div>
         <div className='tiresmob'>
